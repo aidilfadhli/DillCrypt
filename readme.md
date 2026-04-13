@@ -25,7 +25,7 @@
 - **Secure Shredder:** Permanently delete original files so they can never be recovered by forensics.
 - **EXIF Scrubber:** Automatically remove GPS and device tracking data from photos before encryption.
 - **Bruteforce Protection:** Automatically locks the app after multiple wrong password attempts.
-- **Password Generator:** Create a 16-character military-grade password with a single click.
+- **Password Generator:** Create a 16-character strongest password with a single click.
 
 ### 🎨 Next-Gen UI/UX
 
