@@ -2,7 +2,7 @@
   <img alt="DillCrypt Logo" src="icon.png" width="120" />
   <h1>DillCrypt</h1>
   <p>
-    <i>A sleek, military-grade file encryption tool with an out-of-the-box UI/UX.</i>
+    <i>A simple, file encryption tool with immersive UI/UX and it's free.</i>
   </p>
 
   <p>
