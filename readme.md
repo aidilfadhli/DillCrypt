@@ -54,5 +54,5 @@
 The easiest way to use DillCrypt is to download the pre-compiled, standalone executable.
 
 1. Head over to the [Releases](../../releases) page.
-2. Download the latest `DillCrypt_vx.x.x.zip`.
+2. Download the latest `DillCrypt_Vx.x.x.zip`.
 3. Extract the folder and run `DillCrypt.exe`. No Python installation required!
