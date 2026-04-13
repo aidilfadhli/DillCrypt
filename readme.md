@@ -43,7 +43,7 @@
 
 - **Core:** Python 3
 - **GUI Framework:** PyQt5
-- **Compiler:** Nuitka (C++ Transpilation for ultimate reverse-engineering resistance)
+- **Compiler:** Nuitka (C++)
 
 ---
 
