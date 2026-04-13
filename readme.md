@@ -17,20 +17,25 @@
 
 ## ✨ Key Features
 
-### 🛡️ Security First
+### 🛡️ Core Security
 
-- **Custom Polyalphabetic Cipher:** Built from scratch with dynamic shifting and permutation tables, bypassing generic, easily traceable library standards.
-- **In-Memory Secure Preview:** View encrypted image files directly in RAM. Zero temporary files written to the disk.
-- **Steganography Support:** Seamlessly camouflage your encrypted `.dill` files inside ordinary `.jpg` or `.png` images.
-- **Secure Shredder & EXIF Scrubber:** Wipe original files beyond forensic recovery and strip device/GPS metadata before encryption.
-- **Bruteforce Lockout:** Automatic system lockdown mechanism upon multiple failed decryption attempts.
+- **Custom Encryption Engine:** Uses a unique, untraceable algorithm instead of easily hackable standard libraries.
+- **RAM-Only Preview:** View secret images safely directly in RAM without saving any temporary files to your disk.
+- **Steganography:** Hide your encrypted files invisibly inside normal `.jpg` or `.png` images.
+- **Secure Shredder:** Permanently delete original files so they can never be recovered by forensics.
+- **EXIF Scrubber:** Automatically remove GPS and device tracking data from photos before encryption.
+- **Bruteforce Protection:** Automatically locks the app after multiple wrong password attempts.
+- **Password Generator:** Create a 16-character military-grade password with a single click.
 
-### 🎨 Next-Gen UX
+### 🎨 Next-Gen UI/UX
 
-- **Acrylic Glass Interface:** Translucent UI elements that dynamically adapt to your system's wallpaper.
-- **Matrix Cryptographic Typing:** Password masking with a beautiful scrambling animation.
-- **Fluid Wave Progress Bar:** Liquid-like animated progress indicators.
-- **Just-In-Time (JIT) Processing:** Configure your shredding and randomization parameters on the fly, per execution.
+- **Right-Click Integration:** Encrypt or decrypt instantly right from your Windows File Explorer.
+- **Smart JIT Options:** Choose your shredding and metadata options right before processing the file.
+- **Acrylic Glass UI:** Beautiful translucent windows that smoothly blend with your desktop background.
+- **Matrix Typing Effect:** Cool scrambled hacker-style animation when typing your password.
+- **Fluid Progress Bar:** Liquid-style glowing animation while processing files.
+- **Interactive Feedback:** The window physically shakes on errors, and glitches when switching to the Hacker theme.
+- **Dynamic Accents:** App UI colors and sliders automatically adapt to your selected theme.
 
 ---
 
