@@ -15,15 +15,6 @@
 
 ---
 
-## 👁️ Visual Showcase
-
-> **Note to Creator:** Replace the URL below with an actual GIF or Screenshot of DillCrypt running.
-> `![DillCrypt Demo](https://via.placeholder.com/800x450.png?text=DillCrypt+UI+Preview)`
-
-DillCrypt redefines how security tools should look and feel. From Mica/Acrylic glass transparency to macOS-style interactive sliders, every pixel is engineered for perfection.
-
----
-
 ## ✨ Key Features
 
 ### 🛡️ Security First
@@ -58,13 +49,5 @@ DillCrypt redefines how security tools should look and feel. From Mica/Acrylic g
 The easiest way to use DillCrypt is to download the pre-compiled, standalone executable.
 
 1. Head over to the [Releases](../../releases) page.
-2. Download the latest `DillCrypt_v1.0.2.zip`.
+2. Download the latest `DillCrypt_vx.x.x.zip`.
 3. Extract the folder and run `DillCrypt.exe`. No Python installation required!
-
-If you want to modify the source code or build the binary yourself:
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/aidilfadhli/DillCrypt.git](https://github.com/aidilfadhli/DillCrypt.git)
-   cd DillCrypt
-   ```
